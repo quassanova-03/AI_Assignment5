@@ -1,0 +1,5 @@
+# Python 3.10+
+
+# No third-party packages required.
+
+# All assignments use Python standard library modules only.
